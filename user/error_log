@@ -1,0 +1,5 @@
+[27-Feb-2019 09:48:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/portofolioku/public_html/eraport/user/index.php:44) in /home/portofolioku/public_html/eraport/user/index.php on line 128
+[27-Feb-2019 10:01:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/portofolioku/public_html/eraport/user/login.php:1) in /home/portofolioku/public_html/eraport/user/login.php on line 28
+[27-Feb-2019 10:01:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/portofolioku/public_html/eraport/user/login.php:1) in /home/portofolioku/public_html/eraport/user/login.php on line 28
+[09-May-2019 18:27:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/portofolioku/public_html/eraport/user/login.php on line 14
+[09-May-2019 18:29:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/portofolioku/public_html/eraport/user/login.php on line 14

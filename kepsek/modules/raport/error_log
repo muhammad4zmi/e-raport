@@ -1,0 +1,2 @@
+[13-Aug-2019 12:06:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/portofolioku/public_html/eraport/kepsek/modules/raport/laporan_readyToPrint.php on line 310
+[13-Aug-2019 12:06:38 UTC] PHP Warning:  Division by zero in /home/portofolioku/public_html/eraport/kepsek/modules/raport/laporan_readyToPrint.php on line 313

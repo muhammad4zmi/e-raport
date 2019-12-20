@@ -1,0 +1,10 @@
+[05-Jul-2019 11:21:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/portofolioku/public_html/eraport/admin/modules/raport/laporan_readyToPrint.php on line 310
+[05-Jul-2019 11:21:12 UTC] PHP Warning:  Division by zero in /home/portofolioku/public_html/eraport/admin/modules/raport/laporan_readyToPrint.php on line 313
+[05-Jul-2019 14:40:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/portofolioku/public_html/eraport/admin/modules/raport/laporan_readyToPrint.php on line 310
+[05-Jul-2019 14:40:37 UTC] PHP Warning:  Division by zero in /home/portofolioku/public_html/eraport/admin/modules/raport/laporan_readyToPrint.php on line 313
+[06-Jul-2019 04:38:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/portofolioku/public_html/eraport/admin/modules/raport/laporan_readyToPrint.php on line 310
+[06-Jul-2019 04:38:56 UTC] PHP Warning:  Division by zero in /home/portofolioku/public_html/eraport/admin/modules/raport/laporan_readyToPrint.php on line 313
+[06-Jul-2019 07:35:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/portofolioku/public_html/eraport/admin/modules/raport/laporan_readyToPrint.php on line 310
+[06-Jul-2019 07:35:50 UTC] PHP Warning:  Division by zero in /home/portofolioku/public_html/eraport/admin/modules/raport/laporan_readyToPrint.php on line 313
+[02-Aug-2019 22:54:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/portofolioku/public_html/eraport/admin/modules/raport/laporan_readyToPrint.php on line 310
+[02-Aug-2019 22:54:56 UTC] PHP Warning:  Division by zero in /home/portofolioku/public_html/eraport/admin/modules/raport/laporan_readyToPrint.php on line 313
